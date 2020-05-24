@@ -1,0 +1,56 @@
+Tigre
+caballo
+leon
+ardilla
+vaca
+avestruz
+cocodrilo
+burro
+murcielago
+oso
+ballena
+ballena beluga
+ballena orca
+ballena jorobada
+tiburon ballena
+delfin
+foca
+leo marino
+pez espada
+pez martillo
+anguila
+dorada
+tilapia
+bocachico
+venado
+cabra
+bufalo
+elefante
+jirafa
+cebra
+leopardo
+pantera
+gacela
+aguila
+buo
+gato
+perro
+iguana
+gorila
+chimpance
+gaviota
+colibri
+chupaflor
+la clave es cerberush
+serpiente
+boa
+alacran
+escorpion
+hiena
+papagayo
+pajaro carpintero
+dromedario
+camello
+
+
+
